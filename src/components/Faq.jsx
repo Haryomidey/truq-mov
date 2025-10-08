@@ -9,27 +9,27 @@ const Faq = () => {
         {
             question: "Who can use Run?",
             answer:
-                "Run provides end-to-end logistics solutions, including pickup, warehousing, last-mile delivery, real-time tracking, and API integrations for e-commerce platforms. Whether you're a small seller or a large retailer, we help streamline your delivery operations.",
+                "TruqMov provides end-to-end logistics solutions, including pickup, warehousing, last-mile delivery, real-time tracking, and API integrations for e-commerce platforms. Whether you're a small seller or a large retailer, we help streamline your delivery operations.",
         },
         {
-            question: "How can I integrate Run with my online store?",
+            question: "How can I integrate TruqMov with my online store?",
             answer:
                 "You can connect your e-commerce platform directly through our dashboard or via API. We support major platforms like Shopify, WooCommerce, and custom solutions — making it easy to automate your deliveries.",
         },
         {
-            question: "What areas does Run cover?",
+            question: "What areas does TruqMov cover?",
             answer:
-                "Run currently operates across major cities in Nigeria, with regional expansion across Africa in progress. We handle both intra-city and inter-state deliveries.",
+                "TruqMov currently operates across major cities in Nigeria, with regional expansion across Africa in progress. We handle both intra-city and inter-state deliveries.",
         },
         {
-            question: "How much does Run cost?",
+            question: "How much does TruqMov cost?",
             answer:
                 "Our pricing is flexible — you only pay for what you move. We offer Starter, Growth, and Enterprise plans, depending on your delivery volume. Visit our pricing section or Request a Demo to get a custom quote.",
         },
         {
             question: "How do I track my deliveries?",
             answer:
-                "Every package shipped through Run can be tracked in real time via our dashboard or tracking link. You'll see pickup, transit, and delivery status — all updated automatically.",
+                "Every package shipped through TruqMov can be tracked in real time via our dashboard or tracking link. You'll see pickup, transit, and delivery status — all updated automatically.",
         },
     ];
 

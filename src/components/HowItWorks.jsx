@@ -43,7 +43,7 @@ const HowItWorks = () => {
             <img
                 src={Images.truckRight}
                 alt="Truck illustration"
-                className="absolute top-0 left-0 w-40 md:w-60 opacity-90"
+                className="absolute top-0 left-0 w-24 md:w-40 opacity-90"
             />
 
             <div className="relative z-10 text-center mb-8 mt-12 sm:mt-20">

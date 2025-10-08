@@ -42,7 +42,7 @@ const Features = () => {
             <img
                 src={Images.truckLeft}
                 alt="Truck illustration"
-                className="absolute top-0 right-0 w-44 md:w-60 opacity-90"
+                className="absolute top-0 right-0 w-24 md:w-40 opacity-90"
             />
 
             <div className="relative z-10 text-center mb-12 mt-16">
