@@ -30,7 +30,7 @@ const Testimonial = () => {
                             key={index}
                             className="bg-white text-gray-800 rounded-xl shadow-md p-8 relative"
                         >
-                            <div className="absolute top-4 left-1/2 text-green-600 opacity-20">
+                            <div className="absolute top-4 left-1/2 -translate-x-1/2 text-green-600 opacity-20">
                                 <VscQuote className="text-4xl" />
                             </div>
                             <p className="italic leading-relaxed m-6 max-w-[350px] mx-auto">
